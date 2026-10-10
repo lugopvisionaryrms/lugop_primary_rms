@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lugop_rms"
+    namespace = "com.example.lugop_primary_rms"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

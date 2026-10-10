@@ -17,7 +17,7 @@
     </queries>
 
     <application
-        android:label="LUGOP RMS"
+        android:label="LUGOP Primary RMS"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
