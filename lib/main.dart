@@ -38,10 +38,10 @@ class _PrimaryWebViewScreenState extends State<PrimaryWebViewScreen> {
 
   // 2. YOUR SOCIAL / CONTACT LINKS
   // For WhatsApp, use international format without '+' (e.g., 265888123456)
+ // 2. YOUR SOCIAL / CONTACT LINKS
   final Uri whatsappUrl = Uri.parse('https://wa.me/265882192585');
   final Uri facebookUrl = Uri.parse('https://www.facebook.com/john.liwinya');
-  final Uri suggestionsUrl = Uri.parse('https://www.facebook.com/YOUR_FACEBOOK_PAGE'); // Or a feedback link
-
+  final Uri suggestionsUrl = Uri.parse('mailto:livingundergodofpossiblities@gmail.com'); // FIXED WITH mailto:
   bool isLoading = true;
 
   @override
