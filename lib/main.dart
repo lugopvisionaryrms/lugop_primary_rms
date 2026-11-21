@@ -34,7 +34,7 @@ class _PrimaryWebViewScreenState extends State<PrimaryWebViewScreen> {
   late final WebViewController controller;
 
   // 1. YOUR PRIMARY SCHOOL ENTRY PORTAL LINK
-  final String entryPortalUrl = 'https://script.google.com/macros/s/AKfycbwY9kkOKIs9sv6O3CC1mwza6XSnWUdslT7sV3tYZlsNJ-BQjQmB8hnLhrE3cvcrUZ0w_Q/exec?school=naluso%20l.e.a';
+  final String entryPortalUrl = 'https://lugopvisionaryrms.github.io/primary-portal/?school=naluso%20l.e.a';
 
   // 2. YOUR SOCIAL / CONTACT LINKS
   // For WhatsApp, use international format without '+' (e.g., 265888123456)
